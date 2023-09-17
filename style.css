@@ -12,5 +12,11 @@ body {
   background-size: cover;
   background-position: center;
   min-height: 800px;
+}
+.paragraph-hero {
+  color: white;
+  font-size: 35px;
+  text-align: center;
   
+
 }
