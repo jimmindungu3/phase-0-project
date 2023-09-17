@@ -4,5 +4,13 @@ body {
 
 #header {
   background: rgb(255, 255, 255);
+
+}
+#hero {
+  background-image: url(./img/Hero_section_background.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 800px;
   
 }
