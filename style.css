@@ -1,5 +1,4 @@
 
-
 .nav-link {
   display: inline;
   padding-left: 25px;
@@ -12,4 +11,28 @@
 .nav-list {
   text-align: right;
   padding-right: 50px;
+}
+
+.hero-section {
+  height: 600px;
+  text-align: center;
+  font-size: 30px;
+  background-image: url(img/sun_background.jpg);
+  background-size: cover;
+}
+
+.hero-center-div {
+  padding-top: 200px;
+}
+
+.hero-p {
+  margin: 0px;
+  line-height: 50px;
+  color: white;
+}
+
+.footer {
+  color: white;
+  background-color: rgb(19, 19, 19);
+  height: 50px;
 }
