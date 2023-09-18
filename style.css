@@ -1,0 +1,9 @@
+.nav-link {
+  display: inline;
+  padding-left: 25px;
+}
+
+.nav-list {
+  text-align: right;
+  padding-right: 50px;
+}
