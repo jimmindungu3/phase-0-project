@@ -1,6 +1,12 @@
+
+
 .nav-link {
   display: inline;
   padding-left: 25px;
+}
+
+.nav a {
+  color: blue;
 }
 
 .nav-list {
