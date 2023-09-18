@@ -1,8 +1,8 @@
 body {
-  background: grey;
+  background: white;
 }
 
-#center {
+#header {
   padding: 25px 0;
   background-color: grey;
   text-align: right;
@@ -29,6 +29,7 @@ body {
   font-size: 30px;
   text-align: center;
   padding: 200px 0;
+  
 
 }
 
