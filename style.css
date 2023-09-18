@@ -15,4 +15,15 @@
 
 #hero-section {
   background-image: url(img/sun_background.jpg);
+  height: 500px;
+  background-position: center;
+  
+}
+
+.hero-paragraph {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 200px 0;
+
 }
